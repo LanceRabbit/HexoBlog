@@ -43,4 +43,4 @@ OpenNI = Open Natural Interaction. **開放式自然相互作用**~~(我到底�
 
   
 附上成功執行NiViewer的圖片  
-[NiViewer](/images/niviewer.jpg)
+![NiViewer](/images/niviewer.jpg)
