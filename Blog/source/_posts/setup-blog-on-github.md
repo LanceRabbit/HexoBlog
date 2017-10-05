@@ -115,7 +115,7 @@ deploy:
  2. push 文章與環境到新的 repository
  3. 在新電腦中，請一樣安裝 git 與 所提到的環境
  4. 在新電腦中安裝 nodeJS
- 5. 請不要執行 `hexo init'
+ 5. 請不要執行 `hexo init`
  5. git clone 網誌的 repository (Ex: account.github.io)
  
  這樣應該就可以動了
